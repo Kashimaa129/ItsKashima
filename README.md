@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://github.com/CarameloSz/KannaMusic/blob/main/assets/logo.gif?raw=true" width="30px"> AL1VE Music <img src="https://github.com/CarameloSz/KannaMusic/blob/main/assets/logo.gif?raw=true" width="30px"></h1>
 <p align="center">Cool Music Bot!</p>
 
+### 🌟 Developed By Nojin 🌟
 
 ### ***AL1VE Music***
 
