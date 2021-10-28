@@ -3,18 +3,20 @@ lagi di bikin...
 
 **Multi Purpose Music Bot**
 
--Support Radio Music
+・Support Radio Music
 
--Youtube
+・Youtube
 
--Spotify
+・Spotify
 
--Deezer
+・Deezer
 
--Tidal 
+・Tidal 
 
 And Manymore
 
 ### ***AL1VE Music Bot Full Command's***
 
--**AMbassboost (none - Low - Medium - High)**
+・**AMbassboost (none - Low - Medium - High)**
+
+・**AMbump
