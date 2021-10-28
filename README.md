@@ -1,7 +1,7 @@
 lagi di bikin...
 ### ***AL1VE Music***
 
-**Multi Purpose Music Bot**
+**Multi Purpose Music Bot With 70+ Music Command's**
 
 ・Support Radio Music
 
