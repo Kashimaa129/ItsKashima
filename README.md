@@ -43,7 +43,7 @@ And Manymore
 
 **・AMnowplaying - See what song is currently playing**
 
-**・AMpause - Pauses the music**
+  **・AMpause - Pauses the music**
 
   **・AMplay [song] - Play your favorite songs**
 
