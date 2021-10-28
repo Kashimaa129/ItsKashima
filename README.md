@@ -1,4 +1,6 @@
-lagi di bikin...
+<h1 align="center"><img src="./assets/logo.gif" width="30px"> AL1VE Music <img src="./assets/logo.gif" width="30px"></h1>
+<p align="center">Cool Music bot!</p>
+
 ### ***AL1VE Music***
 
 **Multi Purpose Music Bot With 70+ Music Command's**
