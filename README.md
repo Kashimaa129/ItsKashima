@@ -1,5 +1,6 @@
-<h1 align="center">width="30px"> AL1VE Music width="30px"></h1>
-<p align="center">Cool Music bot!</p>
+<h1 align="center"><img src="./assets/logo.gif" width="30px"> AL1VE Music <img src="./assets/logo.gif" width="30px"></h1>
+<p align="center">Cool Music Bot!</p>
+
 
 ### ***AL1VE Music***
 
