@@ -70,4 +70,5 @@ And Manymore
   **・AMyoutube - Starts a YouTube Together session**
 
 [Dashboard](https://discord-musicbot.brid1.repl.co/)
-[Invite Me !![(https://discord.com/api/oauth2/authorize?client_id=901440907851739146&permissions=139824979264&scope=bot)
+
+ [Invite Me !![(https://discord.com/api/oauth2/authorize?client_id=901440907851739146&permissions=139824979264&scope=bot)
